@@ -1,6 +1,6 @@
 # Hi, I'm Omar 👋
 
-### Building Pyxis — a vendor-neutral AI operations platform · ex-Seldon (vLLM, LLM inference) · ex-AWS (semiconductor AI) · London
+### Founder [@pyxis3-ai](https://github.com/pyxis3-ai) — vendor-neutral AI ops platform · ex-Seldon (vLLM, LLM inference) · ex-AWS (semiconductor AI Industry Specialist) · London
 
 I work on production AI infrastructure: LLM inference serving, MLOps platforms, Kubernetes multi-tenancy.
 
