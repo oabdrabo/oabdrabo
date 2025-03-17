@@ -2,7 +2,7 @@
 
 ### Founder [@pyxis3-ai](https://github.com/pyxis3-ai) · vendor-neutral AI ops platform · London
 
-ex-**Seldon** (vLLM, LLM inference) · ex-**AWS** Industry Specialist (semiconductors, AI/ML) · author of the canonical AWS guide on decoupling RDS from Elastic Beanstalk — the same procedure AWS's official YouTube channel cites as *"[Watch Omar's video to learn more](https://www.youtube.com/watch?v=vfIdLuhKTs8)"* (uploaded 2020-05-20).
+ex-**Seldon** (vLLM, LLM inference) · ex-**AWS** Industry Specialist (semiconductors, AI/ML) · ex-**Dell EMC** · ex-**IBM** · author of the canonical AWS guide on decoupling RDS from Elastic Beanstalk — the same procedure AWS's official YouTube channel cites as *"[Watch Omar's video to learn more](https://www.youtube.com/watch?v=vfIdLuhKTs8)"* (uploaded 2020-05-20).
 
 I work on production AI infrastructure: LLM inference serving, multi-tenant MLOps, Kubernetes-native operations.
 
@@ -29,6 +29,9 @@ I work on production AI infrastructure: LLM inference serving, multi-tenant MLOp
 - **Seldon Technologies** · 2025–2026 · Senior Solutions Engineer on the production MLOps platform. vLLM-based LLM inference, multi-tenant model serving on Kubernetes.
 - **AWS London** · 2022–2025 · Solutions Architect, Industry Specialist for the **semiconductor industry vertical** — AI/ML workloads on **Inferentia**, **Trainium**, **SageMaker**, **Bedrock**.
 - **AWS Cape Town** · 2017–2022 · Cloud DevOps Engineer. Authored two AWS Knowledge Center articles + the companion AWS YouTube video.
+- **Dell EMC** · 2016–2017 · Storage engineering (Isilon).
+- **IBM** · 2016 · Cloud infrastructure.
+- **Earlier** · OrecX, HONEST · Egypt, 2007–2012.
 
 #### 🧰 Stack
 
