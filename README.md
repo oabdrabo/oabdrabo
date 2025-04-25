@@ -1,6 +1,6 @@
 # Hi, I'm Omar 👋
 
-### Founder [@pyxis3-ai](https://github.com/pyxis3-ai) · vendor-neutral AI ops platform · London
+### Founder [@pyxis3-ai](https://github.com/pyxis3-ai) · model-agnostic LLM serving infrastructure · London
 
 ex-**Seldon** (vLLM, LLM inference) · ex-**AWS** Industry Specialist (semiconductors, AI/ML) · ex-**Dell EMC** · ex-**IBM** · author of the canonical AWS guide on decoupling RDS from Elastic Beanstalk — the same procedure AWS's official YouTube channel cites as *"[Watch Omar's video to learn more](https://www.youtube.com/watch?v=vfIdLuhKTs8)"* (uploaded 2020-05-20).
 
