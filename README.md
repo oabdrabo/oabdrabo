@@ -10,7 +10,7 @@ I work on production AI infrastructure: LLM inference serving, multi-tenant MLOp
 
 #### 🚀 What I'm building
 
-**[Pyxis3](https://pyxis3.com)** — vendor-neutral AI operations platform. The control plane that lets enterprises run language models without locking into a single cloud, model vendor, or inference runtime. Org: [@pyxis3-ai](https://github.com/pyxis3-ai).
+**[Pyxis3](https://pyxis3.com)** — model-agnostic LLM serving infrastructure. The control plane that lets enterprises run language models without locking into a single cloud, model vendor, or inference runtime. Org: [@pyxis3-ai](https://github.com/pyxis3-ai).
 
 #### 🛠️ Public projects
 
