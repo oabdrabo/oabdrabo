@@ -30,6 +30,8 @@ Most of my work is private or under NDA. A few things I can point at:
 
 #### Open source
 
+- [`noor`](https://github.com/oabdrabo/noor) — AI-powered semantic search over Quran + Hadith corpora. Arabic-aware multilingual embeddings on `sqlite-vec`. FastAPI + Vue.
+- [`lens`](https://github.com/oabdrabo/lens) — lightweight Kubernetes observability + in-browser `kubectl exec`. Vue 3 + Bun. Single-binary, runs in-cluster via service-account token.
 - [`DisplayDisabler`](https://github.com/oabdrabo/DisplayDisabler) — lightweight macOS tool to disable a built-in display via private CoreGraphics APIs. 51 KB alternative to 30 MB commercial offerings.
 
 #### What I work on
