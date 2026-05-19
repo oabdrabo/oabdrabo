@@ -1,31 +1,31 @@
 # Hi, I'm Omar 👋
 
-### ⚙️ AI infrastructure engineer · LLM inference, MLOps, Kubernetes · ex-AWS
+### Building Pyxis — a vendor-neutral AI operations platform · ex-Seldon (vLLM, LLM inference) · ex-AWS (semiconductor AI) · London
 
-I build production AI infrastructure. Currently designing a vendor-neutral AI operations platform.
-
-📍 London, UK
+I work on production AI infrastructure: LLM inference serving, MLOps platforms, Kubernetes multi-tenancy.
 
 ---
 
-#### 🛠️ Recent projects
+#### 🛠️ Projects
 
-- **[`noor`](https://github.com/oabdrabo/noor)** — AI-powered semantic search over the Quran and Hadith. Arabic-aware multilingual embeddings on `sqlite-vec`. FastAPI + Vue.
-- **[`lens`](https://github.com/oabdrabo/lens)** — Lightweight Kubernetes observability with in-browser `kubectl exec`. Vue 3 + Bun. Single-binary, runs in-cluster.
-- **[`DisplayDisabler`](https://github.com/oabdrabo/DisplayDisabler)** — macOS internal-display disabler via private CoreGraphics APIs. 51 KB alternative to 30 MB commercial offerings.
+- **[`noor`](https://github.com/oabdrabo/noor)** — semantic search over the Quran + Hadith corpus. Arabic-aware multilingual embeddings on `sqlite-vec`. FastAPI + Vue. Single Docker image, no external services.
+- **[`lens`](https://github.com/oabdrabo/lens)** — in-cluster Kubernetes observability with in-browser `kubectl exec`. Vue 3 + Bun. Single binary, ServiceAccount-token auth.
+- **[`DisplayDisabler`](https://github.com/oabdrabo/DisplayDisabler)** — macOS built-in display disable via private CoreGraphics APIs. 51 KB binary vs 30 MB commercial app. Built for headless MacBook setups.
 
 #### 📚 Published
 
-- [Decouple Amazon RDS instances from Elastic Beanstalk environments](https://repost.aws/knowledge-center) · **AWS Knowledge Center**
-- [How do I safely decouple an Amazon RDS instance from an Elastic Beanstalk environment?](https://repost.aws/knowledge-center) · **AWS Knowledge Center**
+- *Decouple Amazon RDS instances from Elastic Beanstalk environments* — [AWS Knowledge Center](https://repost.aws/knowledge-center/decouple-rds-from-beanstalk) (canonical AWS guidance; still ranks #1 on Google for the topic)
+- *How do I safely decouple an Amazon RDS instance from an Elastic Beanstalk environment?* — companion AWS Knowledge Center walkthrough
+
+#### 🏛️ Background
+
+- **Seldon Technologies** · 2025–2026 · Senior Solutions Engineer on the production MLOps platform. vLLM-based LLM inference, multi-tenant model serving on Kubernetes.
+- **Amazon Web Services London** · 2022–2025 · Solutions Architect, Industry Specialist for the **semiconductor industry vertical** — AI/ML workloads on SageMaker, Inferentia, Trainium, Bedrock.
+- **Amazon Web Services Cape Town** · 2017–2022 · Cloud DevOps Engineer.
 
 #### 🧰 Stack
 
 `vLLM` · `Triton` · `Kubernetes` · `KEDA` · `Helm` · `Prometheus` · `Caddy` · `AWS` · `GCP` · `Azure` · `Python` · `Go` · `TypeScript`
-
-#### 🏛️ Background
-
-10+ years at **Amazon Web Services** — Cape Town as a Cloud DevOps Engineer (2017–2022), then London as a Solutions Architect specialising in the **semiconductor industry vertical** (2022–2025). Most recently **Seldon Technologies** as Solutions Engineer on their MLOps platform (2025–2026).
 
 ---
 
