@@ -10,7 +10,7 @@ I work on production AI infrastructure: LLM inference serving, multi-tenant MLOp
 
 #### 🚀 What I'm building
 
-**[Pyxis3](https://pyxis3.com)** — model-agnostic LLM serving infrastructure. The control plane that lets enterprises run language models without locking into a single cloud, model vendor, or inference runtime. Org: [@pyxis3-ai](https://github.com/pyxis3-ai).
+**[PYXIS3](https://pyxis3.ai)** — model-agnostic LLM serving infrastructure. The control plane that lets enterprises run language models without locking into a single cloud, model vendor, or inference runtime. Org: [@pyxis3-ai](https://github.com/pyxis3-ai).
 
 #### 🛠️ Public projects
 
@@ -19,7 +19,7 @@ All under [`@pyxis3-ai`](https://github.com/pyxis3-ai):
 - **[`pyxis-arch`](https://github.com/pyxis3-ai/pyxis-arch)** — architecture thesis for model-agnostic LLM serving infrastructure. Public design notes, operating-model argument, decision rationale.
 - **[`vllm-bench`](https://github.com/pyxis3-ai/vllm-bench)** — throughput + latency benchmark for OpenAI-compatible LLM endpoints (vLLM, TGI, llama.cpp, Ollama). Measures TTFT, TPOT, request and token throughput at percentiles. Async; two-dependency footprint. MIT.
 - **[`llm-serving-cookbook`](https://github.com/pyxis3-ai/llm-serving-cookbook)** — production recipes for K8s-native vLLM-first serving. vLLM-on-EKS, KEDA autoscaling, token economics, TTFT optimisation, runtime selection. Apache-2.0.
-- **[`awesome-model-agnostic-llm`](https://github.com/pyxis3-ai/awesome-model-agnostic-llm)** — curated list of vendor-portable LLM tooling: serving runtimes, routers, evaluators, observability, standards, open weights. CC0.
+- **[`awesome-model-agnostic-llm`](https://github.com/pyxis3-ai/awesome-model-agnostic-llm)** — curated list of model-agnostic LLM tooling: serving runtimes, routers, evaluators, observability, standards, open weights. CC0.
 - **[`noor`](https://github.com/pyxis3-ai/noor)** — semantic search over the Quran + Hadith corpus. Arabic-aware multilingual embeddings on `sqlite-vec`. FastAPI + Vue. Runs as a single Docker image, no external services.
 - **[`lens`](https://github.com/pyxis3-ai/lens)** — in-cluster Kubernetes observability with in-browser `kubectl exec`. Vue 3 + Bun. Single binary, ServiceAccount-token auth. Built for ML-serving and GPU clusters.
 
