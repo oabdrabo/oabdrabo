@@ -48,3 +48,7 @@ All under [`@pyxis3-ai`](https://github.com/pyxis3-ai):
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/oabdrabo)
 [![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white)](mailto:oabdrabo12@gmail.com)
+
+## Maintenance
+
+This repository is maintained with small, reviewable updates. Supporting documentation lives in `docs/`, example inputs live in `examples/`, and lightweight validation notes live in `tests/smoke/`.
