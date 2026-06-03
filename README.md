@@ -1,22 +1,22 @@
 # Hi, I'm Omar 👋
 
-### Founder [@pyxis3-ai](https://github.com/pyxis3-ai) · model-agnostic LLM serving infrastructure · London
+### Founder [@pyxis3-ai](https://github.com/pyxis3-ai) · autonomous AI infrastructure operations · London
 
 ex-**Seldon** (vLLM, LLM inference) · ex-**AWS** Industry Specialist (semiconductors, AI/ML) · ex-**Dell EMC** · ex-**IBM** · author of the canonical AWS guide on decoupling RDS from Elastic Beanstalk — the same procedure AWS's official YouTube channel cites as *"[Watch Omar's video to learn more](https://www.youtube.com/watch?v=vfIdLuhKTs8)"* (uploaded 2020-05-20).
 
-I work on production AI infrastructure: LLM inference serving, multi-tenant MLOps, Kubernetes-native operations.
+I work on production AI and cloud infrastructure: autonomous infrastructure operations, LLM inference serving, and Kubernetes-native operations.
 
 ---
 
 #### 🚀 What I'm building
 
-**[PYXIS3](https://pyxis3.ai)** — model-agnostic LLM serving infrastructure. The control plane that lets enterprises run language models without locking into a single cloud, model vendor, or inference runtime. Org: [@pyxis3-ai](https://github.com/pyxis3-ai).
+**[PYXIS3](https://pyxis3.ai)** — autonomous AI that runs your cloud and data-center infrastructure operations across AWS, Google Cloud, Azure, VMware, Nutanix, and on-prem, spanning cost, capacity, reliability, security, and governance, within your guardrails. One subscription, never a share of savings. Org: [@pyxis3-ai](https://github.com/pyxis3-ai).
 
 #### 🛠️ Public projects
 
 All under [`@pyxis3-ai`](https://github.com/pyxis3-ai):
 
-- **[`pyxis-arch`](https://github.com/pyxis3-ai/pyxis-arch)** — architecture thesis for model-agnostic LLM serving infrastructure. Public design notes, operating-model argument, decision rationale.
+- **[`pyxis-arch`](https://github.com/pyxis3-ai/pyxis-arch)** — public architecture notes on model-agnostic LLM serving: design notes, runtime-adapter abstraction, decision rationale.
 - **[`vllm-bench`](https://github.com/pyxis3-ai/vllm-bench)** — throughput + latency benchmark for OpenAI-compatible LLM endpoints (vLLM, TGI, llama.cpp, Ollama). Measures TTFT, TPOT, request and token throughput at percentiles. Async; two-dependency footprint. MIT.
 - **[`llm-serving-cookbook`](https://github.com/pyxis3-ai/llm-serving-cookbook)** — production recipes for K8s-native vLLM-first serving. vLLM-on-EKS, KEDA autoscaling, token economics, TTFT optimisation, runtime selection. Apache-2.0.
 - **[`awesome-model-agnostic-llm`](https://github.com/pyxis3-ai/awesome-model-agnostic-llm)** — curated list of model-agnostic LLM tooling: serving runtimes, routers, evaluators, observability, standards, open weights. CC0.
@@ -31,7 +31,7 @@ All under [`@pyxis3-ai`](https://github.com/pyxis3-ai):
 
 #### 🏛️ Background
 
-- **Seldon Technologies** · 2025–2026 · Senior Solutions Engineer on the production MLOps platform. vLLM-based LLM inference, multi-tenant model serving on Kubernetes.
+- **Seldon Technologies** · 2025–present · Senior Solutions Engineer on the production MLOps platform: vLLM-based LLM inference and multi-tenant model serving on Kubernetes.
 - **AWS London** · 2022–2025 · Solutions Architect, Industry Specialist for the **semiconductor industry vertical** — AI/ML workloads on **Inferentia**, **Trainium**, **SageMaker**, **Bedrock**.
 - **AWS Cape Town** · 2017–2022 · Cloud DevOps Engineer. Authored two AWS Knowledge Center articles + the companion AWS YouTube video.
 - **Dell EMC** · 2016–2017 · Storage engineering (Isilon).
