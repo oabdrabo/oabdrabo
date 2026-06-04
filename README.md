@@ -2,7 +2,7 @@
 
 ### Founder [@pyxis3-ai](https://github.com/pyxis3-ai) · autonomous AI infrastructure operations · London
 
-ex-**Seldon** (vLLM, LLM inference) · ex-**AWS** Industry Specialist (semiconductors, AI/ML) · ex-**Dell EMC** · ex-**IBM** · author of the canonical AWS guide on decoupling RDS from Elastic Beanstalk — the same procedure AWS's official YouTube channel cites as *"[Watch Omar's video to learn more](https://www.youtube.com/watch?v=vfIdLuhKTs8)"* (uploaded 2020-05-20).
+ex-**Seldon** (vLLM, LLM inference) · ex-**AWS** Industry Specialist (semiconductors, AI/ML) · ex-**Dell EMC** · ex-**IBM** · author of the canonical AWS guide on decoupling RDS from Elastic Beanstalk — the same procedure AWS's official YouTube channel cites as *"[Watch Omar's video to learn more](https://www.youtube.com/watch?v=vfIdLuhKTs8)"*.
 
 I work on production AI and cloud infrastructure: autonomous infrastructure operations, LLM inference serving, and Kubernetes-native operations.
 
@@ -26,7 +26,7 @@ All under [`@pyxis3-ai`](https://github.com/pyxis3-ai):
 
 #### 📚 Published
 
-- [*Decouple Amazon RDS instances from Elastic Beanstalk environments*](https://repost.aws/knowledge-center/decouple-rds-from-beanstalk) — **AWS Knowledge Center**. Canonical AWS guidance; still ranks #1 on Google for the topic. Authorship attributed on AWS's [official YouTube channel](https://www.youtube.com/watch?v=vfIdLuhKTs8) since May 2020.
+- [*Decouple Amazon RDS instances from Elastic Beanstalk environments*](https://repost.aws/knowledge-center/decouple-rds-from-beanstalk) — **AWS Knowledge Center**. Canonical AWS guidance; still ranks #1 on Google for the topic. Authorship attributed on AWS's [official YouTube channel](https://www.youtube.com/watch?v=vfIdLuhKTs8).
 - [*How do I safely decouple an Amazon RDS instance from an Elastic Beanstalk environment?*](https://repost.aws/knowledge-center/decouple-rds-from-beanstalk) — companion AWS Knowledge Center walkthrough + video on AWS's official channel.
 
 #### 🏛️ Background
