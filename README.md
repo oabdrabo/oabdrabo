@@ -4,10 +4,6 @@
 
 ### Founder [@pyxis3-ai](https://github.com/pyxis3-ai) · autonomous AI infrastructure operations · London
 
-[![PYXIS3](https://img.shields.io/badge/PYXIS3-pyxis3.ai-6e56cf?logo=icloud&logoColor=white)](https://pyxis3.ai)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/oabdrabo)
-[![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white)](mailto:oabdrabo12@gmail.com)
-
 </div>
 
 ex-**Seldon** (vLLM, LLM inference) · ex-**AWS** Industry Specialist (semiconductors, AI/ML) · ex-**Dell EMC** · ex-**IBM** · author of the canonical AWS guide on decoupling RDS from Elastic Beanstalk — the same procedure AWS's official YouTube channel cites as *"[Watch Omar's video to learn more](https://www.youtube.com/watch?v=vfIdLuhKTs8)"*.
