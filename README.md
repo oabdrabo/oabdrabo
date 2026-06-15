@@ -23,6 +23,10 @@ All under [`@pyxis3-ai`](https://github.com/pyxis3-ai):
 - **[`noor`](https://github.com/pyxis3-ai/noor)** — semantic search over the Quran + Hadith corpus. Arabic-aware multilingual embeddings on `sqlite-vec`. FastAPI + Vue. Runs as a single Docker image, no external services.
 - **[`lens`](https://github.com/pyxis3-ai/lens)** — in-cluster Kubernetes observability with in-browser `kubectl exec`. Vue 3 + Bun. Single binary, ServiceAccount-token auth. Built for ML-serving and GPU clusters.
 
+Plus a personal macOS project:
+
+- **[`DisplayDisabler`](https://github.com/oabdrabo/DisplayDisabler)** — a tiny macOS menu-bar app for total display control: disable/enable screens, Force HiDPI, EDR brightness boost, color warmth, window transparency/blur/picture-in-picture, and keep-awake. Objective-C on private CoreGraphics/SkyLight/DisplayServices APIs. MIT.
+
 
 #### 📚 Published
 
