@@ -6,9 +6,9 @@
 
 <sub>London · production AI & cloud infrastructure · LLM inference serving · Kubernetes-native operations</sub>
 
-[![PYXIS3](https://img.shields.io/badge/PYXIS3-pyxis3.ai-6e56cf?logo=icloud&logoColor=white)](https://pyxis3.ai)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/oabdrabo)
-[![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white)](mailto:oabdrabo12@gmail.com)
+[![PYXIS3](https://img.shields.io/badge/PYXIS3-pyxis3.ai-6e56cf?logo=icloud&logoColor=white&style=flat-square)](https://pyxis3.ai)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://linkedin.com/in/oabdrabo)
+[![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white&style=flat-square)](mailto:oabdrabo12@gmail.com)
 
 [Currently](#currently) · [Open source](#open-source) · [Writing](#writing) · [Experience](#experience) · [Stack](#stack) · [Contact](#contact)
 
