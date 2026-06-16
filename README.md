@@ -35,7 +35,7 @@ Most under [`@pyxis3-ai`](https://github.com/pyxis3-ai):
 | [`llm-serving-cookbook`](https://github.com/pyxis3-ai/llm-serving-cookbook) | Production recipes for K8s-native vLLM-first serving: vLLM-on-EKS, KEDA autoscaling, token economics, TTFT optimisation, runtime selection. · *Apache-2.0* |
 | [`awesome-model-agnostic-llm`](https://github.com/pyxis3-ai/awesome-model-agnostic-llm) | Curated index of model-agnostic LLM tooling: runtimes, routers, evaluators, observability, standards, open weights. · *CC0* |
 | [`noor`](https://github.com/pyxis3-ai/noor) | Semantic search over the Quran + Hadith corpus. Arabic-aware multilingual embeddings on `sqlite-vec`. FastAPI + Vue, single Docker image. |
-| [`DisplayDeck`](https://github.com/oabdrabo/DisplayDeck) | *Personal* — a tiny macOS menu-bar app for total display control (disable screens, Force HiDPI, EDR brightness, warmth, window transparency/PiP, keep-awake). Objective-C on private CoreGraphics/SkyLight APIs. · *MIT* |
+| [`DisplayDeck`](https://github.com/oabdrabo/DisplayDeck) | *Personal* — a tiny macOS menu-bar app for total display control (disable screens, Force HiDPI, EDR brightness, warmth, window tiling, transparency/PiP, keep-awake). Objective-C on private CoreGraphics/SkyLight APIs. · *MIT* |
 
 ## Writing
 
