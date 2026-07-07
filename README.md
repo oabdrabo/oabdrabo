@@ -2,7 +2,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.png" />
-  <img src="assets/banner-dark.png" alt="Omar Abdrabo — founder of PYXIS3" width="880" />
+  <img src="assets/banner-dark.png" alt="PYXIS3 — founder of PYXIS3" width="880" />
 </picture>
 
 <sub>London · production AI & cloud infrastructure · LLM inference serving · Kubernetes-native operations</sub>
